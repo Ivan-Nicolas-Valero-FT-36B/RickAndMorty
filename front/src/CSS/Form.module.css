@@ -1,0 +1,53 @@
+.Form{
+    display: flex;
+    flex-wrap: wrap;
+    color: black;
+    justify-content: center;
+    font-family: serif;
+}
+
+.DivForm {
+    /*background-image: url("../img/backgroundNav.png");*/
+    background-color: rgba(0, 0, 0, 0.479);
+    background-size:cover;
+    background-repeat: no-repeat;
+    box-shadow: 0px 1.5px 15px 5px rgb(7, 116, 1);
+    display: flex;
+    flex-direction: column;
+    padding: 0.01em;
+    margin-top: 3.2em;
+    color: white;
+    -webkit-text-stroke: 0.5px rgba(7, 116, 1, 0.942);
+    border-radius: 3em;
+}
+
+.Marco{
+    background-image: url("../img/marcoLogin.png");
+    background-size:contain;
+    background-repeat: no-repeat;   
+    border-radius: 3em;
+    padding-bottom: 1em;
+}
+
+.H1Form {
+    font-size:1.5em;
+    padding: 2.5em 1.4em 1em 1.4em;
+    margin: 1em;
+}
+
+.ButtonForm {
+    margin-top: 2em;
+    margin-bottom: 4em;
+    padding: 1em 2em;
+    border-radius: 5px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: 0px 1px 10px 2px rgb(7, 116, 1);
+}
+
+.InputForm {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    padding: 1em 2em;
+}
+

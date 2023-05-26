@@ -1,0 +1,22 @@
+.DivSearch{
+  justify-content: right;
+}
+
+.Search {
+  text-align: center;
+  height: 2em;
+  margin: 1.5em 1em 0.5em 1em;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  box-shadow: 0px 1px 10px 2px rgb(7, 116, 1);
+}
+
+.ButtonSearch {
+  padding: 0.5em;
+  margin: 1.5em 1em 0.5em 1em;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  -webkit-text-stroke: 0.2px rgba(0, 0, 0, 0.942);
+  box-shadow: 0px 1px 10px 2px rgb(7, 116, 1);
+}

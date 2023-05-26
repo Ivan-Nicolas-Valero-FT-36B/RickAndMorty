@@ -1,0 +1,31 @@
+.Detail {
+    display:flex;
+    flex-direction: row;
+    margin: 0 10%;
+    justify-content: center;
+}
+
+.DivDatos {
+    position: relative;
+    font-size: 1.8em;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 1px rgb(7, 116, 1);
+    background-color: rgba(0, 0, 0, 0.6);
+    background-size: 100%;
+    width: 45%;
+    padding: 1em;
+    box-shadow: 2px 1px 15px 10px rgb(7, 116, 1);
+}
+
+.DivImg {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 45%;
+    padding: 1em;
+    box-shadow: 2px 1px 15px 10px rgb(7, 116, 1);
+}
+
+.ImgAbout {
+    width: 25em;
+    border-radius: 50%;
+}
